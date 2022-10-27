@@ -1,0 +1,10 @@
+.mantine-Modal-body {
+  height: 85vh;
+}
+.mantine-Paper-root {
+  border-radius: 5px;
+}
+.event__modal-inner{
+    display: flex;
+    height: 100%;
+}

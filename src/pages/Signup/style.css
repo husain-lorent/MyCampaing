@@ -1,0 +1,170 @@
+.signup {
+  background: #313131;
+  height: 93vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup .signup__form h2 {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 61.5597px;
+  line-height: 57px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 32px;
+}
+
+.signup .signup__form h3 {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 31.9633px;
+  line-height: 32px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.signup .signup__form h3 span {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21.77px;
+  line-height: 100.5%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.signup .signup__form h4 {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21.77px;
+  line-height: 100.5%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.signup .signup__form .signup__buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup .signup__form .signup__buttons button {
+  background: #ffffff;
+  border-radius: 5px;
+  font-family: "RF Dewi";
+  padding: 10px 92px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  color: #313131;
+  border: none;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+}
+
+.signup .signup__form .signup__buttons button svg {
+  margin-right: 5px;
+}
+
+.signup .signup__form .input__field label {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19.37px;
+  line-height: 92%;
+  color: #ffffff;
+}
+
+.signup .signup__form .input__field input {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.signup .signup__form .input__field p {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.5046px;
+  line-height: 103%;
+  width: 298px;
+  text-align: center;
+  color: #ffffff;
+  margin: 10px auto 0 auto;
+}
+
+.signup .signup__form button {
+  background: #1c54fc;
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  color: #ffffff;
+  margin-top: 16px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 10px 92px;
+  border-radius: 5px;
+}
+
+.signup .signup__form-fifth {
+  width: 325px;
+}
+
+.signup .signup__form-fifth h2 {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 61.56px;
+  line-height: 100.5%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.signup .signup__form-fifth h2 span {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21.77px;
+  line-height: 100.5%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.signup .signup__form-fifth input {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.signup .signup__form-fifth button {
+  background: #1c54fc;
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  color: #ffffff;
+  margin-top: 16px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 10px 92px;
+  border-radius: 5px;
+}

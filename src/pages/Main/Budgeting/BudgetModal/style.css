@@ -1,0 +1,7 @@
+.mantine-Modal-body {
+  height: 85vh;
+}
+.budgetmodal__wrapper {
+  display: flex;
+  height: 100%;
+}

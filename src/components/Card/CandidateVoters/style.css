@@ -1,0 +1,86 @@
+.candidatevoters {
+  width: 350px;
+  height: 540px;
+  background: #ffffff;
+  box-shadow: inset 0px 0px 1.51872px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  margin-left: 6px;
+  padding: 12px;
+}
+.candidatevoters h2 {
+  font-size: 26px;
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 900;
+  color: #313131;
+  line-height: 24px;
+}
+.candidatevoter__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.candidatevoter__top {
+cursor: pointer;
+}
+.cand__voters p {
+  color: #1c54fc;
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 22px;
+}
+.cand__voters p span {
+  color: #313131;
+  font-size: 20px;
+}
+.candidatevoters__form {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.candidatevoters__form input {
+  border: none;
+  outline: none;
+  font-size: 12px;
+  margin: 14px 0;
+}
+.candidatevoters__btn-add {
+  background: #e9eeff;
+  color: #1c54fc;
+  width: 54px;
+  height: 28px;
+  font-size: 12px;
+  padding: 1px;
+}
+.candidatevoters__btn-add:hover {
+  background: #e9eefe;
+  color: #1c54fc;
+}
+.candidatevoters__btn-delete {
+  background: #FFE9EC;
+  color: #F5415F;
+  width: 62px;
+  height: 28px;
+  font-size: 12px;
+  padding: 1px;
+}
+.candidatevoters__btn-delete:hover {
+  background: #FFE6EC;
+  color: #F5415F;
+
+}
+.candidatevoters__list{
+  height: 380px;
+  overflow-y: scroll;
+  padding-right: 6px;
+}
+.candidatevoters__list::-webkit-scrollbar {
+  background: transparent;
+  width: 5px;
+  height: 7px;
+}
+.candidatevoters__list::-webkit-scrollbar-thumb {
+  background: #e4e4e4;
+  border-radius: 5px;
+}

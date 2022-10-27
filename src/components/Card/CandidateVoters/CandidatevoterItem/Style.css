@@ -1,0 +1,74 @@
+.candivoteritem__top-line {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+.candivoteritem__top-line p {
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+}
+.candvot__top-line {
+  width: 100%;
+  height: 2px;
+  background: #313131;
+  margin-top: 18px;
+  border-radius: 5px;
+}
+.candivoteritem__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.candivoteritem__soc-info2 {
+  display: flex;
+  align-items: center;
+
+}
+.candvoteritem__soc-flex {
+  display: flex;
+  align-items: center;
+}
+.candivoteritem__soc-info1 {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 4px;
+}
+.candivoteritem__name {
+  color: #313131;
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11px;
+  gap: 3px;
+  display: flex;
+}
+.candivoteritem__job {
+  color: #9d9d9d;
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+}
+.candivoteritem__soc-info2 {
+  color: #9d9d9d;
+  font-family: "RF Dewi";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+}
+
+.candivoteritem__realnumer {
+  color: #1c54fc;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  font-family: "RF Dewi";
+  text-align: right;
+  font-feature-settings: "salt" on;
+}
